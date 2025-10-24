@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/World/L_Map.umap",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/World/L_Map_BuiltData.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/Materials/Alter/M_Alter.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Blueprints/BP_Alter_A.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/Materials/Alter/M_Alter_Glow.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/Materials/M_Ground.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_ALTER.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_GUNUPGRADE_PICKUP.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_HEALTH_PICKUP.uasset"
+			]
+		}
+	]
+}
