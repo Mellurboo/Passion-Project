@@ -14,7 +14,17 @@
 				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/Materials/M_Ground.uasset",
 				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_ALTER.uasset",
 				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_GUNUPGRADE_PICKUP.uasset",
-				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_HEALTH_PICKUP.uasset"
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Models/SM_HEALTH_PICKUP.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Blueprints/BP_HealthPickup.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Blueprints/BP_HUD_UI.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Blueprints/BP_Enemy_A.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Blueprints/BP_Enemy_P.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"C:/Users/Myles/Documents/Passion-Project/PassionProject/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
 			]
 		}
 	]
